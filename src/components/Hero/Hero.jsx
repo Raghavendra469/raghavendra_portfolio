@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div id="hero" className="hero">
       <h1>
-        I'm  <span>Raghavendra Kodavalla,</span> frontend developer based in
+        <span>I'm Raghavendra Kodavalla,</span> frontend developer based in
         India.
       </h1>
       <p>
